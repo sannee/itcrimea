@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install_log version="12.15.1748" copy_only="False" all_users="True"
+             pinned="False">
+  <path>
+    C:\Program Files (x86)\Opera
+  </path>
+  <files>
+    <file>
+      encoding.bin
+    </file>
+    <file>
+      opera.dll
+    </file>
+    <file>
+      opera.exe
+    </file>
+    <file>
+      D3DCompiler_43.dll
+    </file>
+    <file>
+      mapi\OperaMAPI.dll
+    </file>
+    <file>
+      updatechecker\opera_autoupdate.exe
+    </file>
+    <file>
+      updatechecker\LICENSES
+    </file>
+    <file>
+      program\plugins\readme.txt
+    </file>
+    <file>
+      lngcode.txt
+    </file>
+    <file>
+      html40_entities.dtd
+    </file>
+    <file>
+      html5_entity_init.dat
+    </file>
+    <file>
+      mathml.dtd
+    </file>
+    <file>
+      files.sig
+    </file>
+    <file>
+      files_old.sig
+    </file>
+    <file>
+      pubsuffix.xml
+    </file>
+    <file>
+      extra\missingplugin.svg
+    </file>
+    <file>
+      extra\missingpluginhover.svg
+    </file>
+    <file>
+      extra\windows-direct3d-10.blocklist.json
+    </file>
+    <file>
+      extra\windows-opengl.blocklist.json
+    </file>
+    <file>
+      defaults\feedreaders.ini
+    </file>
+    <file>
+      defaults\standard_trusted_repositories.ini
+    </file>
+    <file>
+      defaults\mailproviders.xml
+    </file>
+    <file>
+      defaults\webmailproviders.ini
+    </file>
+    <file>
+      defaults\bookmarks.adr
+    </file>
+    <file>
+      defaults\search.ini
+    </file>
+    <file>
+      defaults\standard_speeddial.ini
+    </file>
+    <file>
+      defaults\public_domains.dat
+    </file>
+    <file>
+      defaults\dictionaries.xml
+    </file>
+    <file>
+      defaults\tips_metadata.ini
+    </file>
+    <file>
+      defaults\xmlentities.ini
+    </file>
+    <file>
+      defaults\plugin-ignore.ini
+    </file>
+    <file>
+      defaults\handlers-ignore.ini
+    </file>
+    <file>
+      defaults\license.txt
+    </file>
+    <file>
+      locale\be\bookmarks.adr
+    </file>
+    <file>
+      locale\bg\bookmarks.adr
+    </file>
+    <file>
+      locale\cs\bookmarks.adr
+    </file>
+    <file>
+      locale\de\bookmarks.adr
+    </file>
+    <file>
+      locale\es-ES\bookmarks.adr
+    </file>
+    <file>
+      locale\fr\bookmarks.adr
+    </file>
+    <file>
+      locale\hu\bookmarks.adr
+    </file>
+    <file>
+      locale\it\bookmarks.adr
+    </file>
+    <file>
+      locale\ja\bookmarks.adr
+    </file>
+    <file>
+      locale\nb\bookmarks.adr
+    </file>
+    <file>
+      locale\pl\bookmarks.adr
+    </file>
+    <file>
+      locale\pt-BR\bookmarks.adr
+    </file>
+    <file>
+      locale\ro\bookmarks.adr
+    </file>
+    <file>
+      locale\ru\bookmarks.adr
+    </file>
+    <file>
+      locale\sk\bookmarks.adr
+    </file>
+    <file>
+      locale\sr\bookmarks.adr
+    </file>
+    <file>
+      locale\tr\bookmarks.adr
+    </file>
+    <file>
+      locale\uk\bookmarks.adr
+    </file>
+    <file>
+      locale\zh-cn\bookmarks.adr
+    </file>
+    <file>
+      locale\be\search.ini
+    </file>
+    <file>
+      locale\bg\search.ini
+    </file>
+    <file>
+      locale\cs\search.ini
+    </file>
+    <file>
+      locale\de\search.ini
+    </file>
+    <file>
+      locale\es-ES\search.ini
+    </file>
+    <file>
+      locale\fr\search.ini
+    </file>
+    <file>
+      locale\hu\search.ini
+    </file>
+    <file>
+      locale\it\search.ini
+    </file>
+    <file>
+      locale\ja\search.ini
+    </file>
+    <file>
+      locale\nb\search.ini
+    </file>
+    <file>
+      locale\pl\search.ini
+    </file>
+    <file>
+      locale\pt-BR\search.ini
+    </file>
+    <file>
+      locale\ro\search.ini
+    </file>
+    <file>
+      locale\ru\search.ini
+    </file>
+    <file>
+      locale\sk\search.ini
+    </file>
+    <file>
+      locale\sr\search.ini
+    </file>
+    <file>
+      locale\tr\search.ini
+    </file>
+    <file>
+      locale\uk\search.ini
+    </file>
+    <file>
+      locale\zh-cn\search.ini
+    </file>
+    <file>
+      locale\be\standard_speeddial.ini
+    </file>
+    <file>
+      locale\bg\standard_speeddial.ini
+    </file>
+    <file>
+      locale\cs\standard_speeddial.ini
+    </file>
+    <file>
+      locale\de\standard_speeddial.ini
+    </file>
+    <file>
+      locale\es-ES\standard_speeddial.ini
+    </file>
+    <file>
+      locale\fr\standard_speeddial.ini
+    </file>
+    <file>
+      locale\hu\standard_speeddial.ini
+    </file>
+    <file>
+      locale\it\standard_speeddial.ini
+    </file>
+    <file>
+      locale\ja\standard_speeddial.ini
+    </file>
+    <file>
+      locale\nb\standard_speeddial.ini
+    </file>
+    <file>
+      locale\pl\standard_speeddial.ini
+    </file>
+    <file>
+      locale\pt-BR\standard_speeddial.ini
+    </file>
+    <file>
+      locale\ro\standard_speeddial.ini
+    </file>
+    <file>
+      locale\ru\standard_speeddial.ini
+    </file>
+    <file>
+      locale\sk\standard_speeddial.ini
+    </file>
+    <file>
+      locale\sr\standard_speeddial.ini
+    </file>
+    <file>
+      locale\tr\standard_speeddial.ini
+    </file>
+    <file>
+      locale\uk\standard_speeddial.ini
+    </file>
+    <file>
+      locale\zh-cn\standard_speeddial.ini
+    </file>
+    <file>
+      locale\zh-cn\operaprefs_locale.ini
+    </file>
+    <file>
+      locale\en\license.txt
+    </file>
+    <file>
+      locale\en\license.txt
+    </file>
+    <file>
+      locale\af\af.lng
+    </file>
+    <file>
+      locale\ar\ar.lng
+    </file>
+    <file>
+      locale\az\az.lng
+    </file>
+    <file>
+      locale\be\be.lng
+    </file>
+    <file>
+      locale\bg\bg.lng
+    </file>
+    <file>
+      locale\bn\bn.lng
+    </file>
+    <file>
+      locale\cs\cs.lng
+    </file>
+    <file>
+      locale\da\da.lng
+    </file>
+    <file>
+      locale\de\de.lng
+    </file>
+    <file>
+      locale\el\el.lng
+    </file>
+    <file>
+      locale\en\en.lng
+    </file>
+    <file>
+      locale\en-GB\en-GB.lng
+    </file>
+    <file>
+      locale\es-ES\es-ES.lng
+    </file>
+    <file>
+      locale\es-LA\es-LA.lng
+    </file>
+    <file>
+      locale\et\et.lng
+    </file>
+    <file>
+      locale\fa\fa.lng
+    </file>
+    <file>
+      locale\fi\fi.lng
+    </file>
+    <file>
+      locale\fr\fr.lng
+    </file>
+    <file>
+      locale\fr-CA\fr-CA.lng
+    </file>
+    <file>
+      locale\fy\fy.lng
+    </file>
+    <file>
+      locale\gd\gd.lng
+    </file>
+    <file>
+      locale\he\he.lng
+    </file>
+    <file>
+      locale\hi\hi.lng
+    </file>
+    <file>
+      locale\hr\hr.lng
+    </file>
+    <file>
+      locale\hu\hu.lng
+    </file>
+    <file>
+      locale\id\id.lng
+    </file>
+    <file>
+      locale\it\it.lng
+    </file>
+    <file>
+      locale\ja\ja.lng
+    </file>
+    <file>
+      locale\ka\ka.lng
+    </file>
+    <file>
+      locale\kk\kk.lng
+    </file>
+    <file>
+      locale\ko\ko.lng
+    </file>
+    <file>
+      locale\lt\lt.lng
+    </file>
+    <file>
+      locale\lv\lv.lng
+    </file>
+    <file>
+      locale\me\me.lng
+    </file>
+    <file>
+      locale\mk\mk.lng
+    </file>
+    <file>
+      locale\ms\ms.lng
+    </file>
+    <file>
+      locale\nb\nb.lng
+    </file>
+    <file>
+      locale\nl\nl.lng
+    </file>
+    <file>
+      locale\nn\nn.lng
+    </file>
+    <file>
+      locale\pa\pa.lng
+    </file>
+    <file>
+      locale\pl\pl.lng
+    </file>
+    <file>
+      locale\pt\pt.lng
+    </file>
+    <file>
+      locale\pt-BR\pt-BR.lng
+    </file>
+    <file>
+      locale\ro\ro.lng
+    </file>
+    <file>
+      locale\ru\ru.lng
+    </file>
+    <file>
+      locale\sk\sk.lng
+    </file>
+    <file>
+      locale\sr\sr.lng
+    </file>
+    <file>
+      locale\sv\sv.lng
+    </file>
+    <file>
+      locale\sw\sw.lng
+    </file>
+    <file>
+      locale\ta\ta.lng
+    </file>
+    <file>
+      locale\te\te.lng
+    </file>
+    <file>
+      locale\th\th.lng
+    </file>
+    <file>
+      locale\tl\tl.lng
+    </file>
+    <file>
+      locale\tr\tr.lng
+    </file>
+    <file>
+      locale\uk\uk.lng
+    </file>
+    <file>
+      locale\ur\ur.lng
+    </file>
+    <file>
+      locale\uz\uz.lng
+    </file>
+    <file>
+      locale\vi\vi.lng
+    </file>
+    <file>
+      locale\zh-cn\zh-cn.lng
+    </file>
+    <file>
+      locale\zh-tw\zh-tw.lng
+    </file>
+    <file>
+      locale\zu\zu.lng
+    </file>
+    <file>
+      locale\en\en.zip
+    </file>
+    <file>
+      region\region.ini
+    </file>
+    <file>
+      region\ar\bookmarks.adr
+    </file>
+    <file>
+      region\au\bookmarks.adr
+    </file>
+    <file>
+      region\eg\bookmarks.adr
+    </file>
+    <file>
+      region\gb\bookmarks.adr
+    </file>
+    <file>
+      region\id\bookmarks.adr
+    </file>
+    <file>
+      region\in\bookmarks.adr
+    </file>
+    <file>
+      region\ke\bookmarks.adr
+    </file>
+    <file>
+      region\kz\bookmarks.adr
+    </file>
+    <file>
+      region\latin_america\bookmarks.adr
+    </file>
+    <file>
+      region\middle_east\bookmarks.adr
+    </file>
+    <file>
+      region\mx\bookmarks.adr
+    </file>
+    <file>
+      region\my\bookmarks.adr
+    </file>
+    <file>
+      region\ng\bookmarks.adr
+    </file>
+    <file>
+      region\ph\bookmarks.adr
+    </file>
+    <file>
+      region\pk\bookmarks.adr
+    </file>
+    <file>
+      region\ru\bookmarks.adr
+    </file>
+    <file>
+      region\se\bookmarks.adr
+    </file>
+    <file>
+      region\us\bookmarks.adr
+    </file>
+    <file>
+      region\vn\bookmarks.adr
+    </file>
+    <file>
+      region\za\bookmarks.adr
+    </file>
+    <file>
+      region\ar\search.ini
+    </file>
+    <file>
+      region\eg\search.ini
+    </file>
+    <file>
+      region\gb\search.ini
+    </file>
+    <file>
+      region\id\search.ini
+    </file>
+    <file>
+      region\in\search.ini
+    </file>
+    <file>
+      region\kz\search.ini
+    </file>
+    <file>
+      region\latin_america\search.ini
+    </file>
+    <file>
+      region\middle_east\search.ini
+    </file>
+    <file>
+      region\mx\search.ini
+    </file>
+    <file>
+      region\ru\search.ini
+    </file>
+    <file>
+      region\us\search.ini
+    </file>
+    <file>
+      region\ar\standard_speeddial.ini
+    </file>
+    <file>
+      region\au\standard_speeddial.ini
+    </file>
+    <file>
+      region\eg\standard_speeddial.ini
+    </file>
+    <file>
+      region\gb\standard_speeddial.ini
+    </file>
+    <file>
+      region\id\standard_speeddial.ini
+    </file>
+    <file>
+      region\in\standard_speeddial.ini
+    </file>
+    <file>
+      region\ke\standard_speeddial.ini
+    </file>
+    <file>
+      region\kz\standard_speeddial.ini
+    </file>
+    <file>
+      region\latin_america\standard_speeddial.ini
+    </file>
+    <file>
+      region\middle_east\standard_speeddial.ini
+    </file>
+    <file>
+      region\mx\standard_speeddial.ini
+    </file>
+    <file>
+      region\my\standard_speeddial.ini
+    </file>
+    <file>
+      region\ng\standard_speeddial.ini
+    </file>
+    <file>
+      region\ph\standard_speeddial.ini
+    </file>
+    <file>
+      region\pk\standard_speeddial.ini
+    </file>
+    <file>
+      region\ru\standard_speeddial.ini
+    </file>
+    <file>
+      region\se\standard_speeddial.ini
+    </file>
+    <file>
+      region\us\standard_speeddial.ini
+    </file>
+    <file>
+      region\vn\standard_speeddial.ini
+    </file>
+    <file>
+      region\za\standard_speeddial.ini
+    </file>
+    <file>
+      region\cn\turbosettings.xml
+    </file>
+    <file>
+      region\hk\turbosettings.xml
+    </file>
+    <file>
+      region\tw\turbosettings.xml
+    </file>
+    <file>
+      region\cn\browser.js
+    </file>
+    <file>
+      region\hk\browser.js
+    </file>
+    <file>
+      region\tw\browser.js
+    </file>
+    <file>
+      region\cis\en\bookmarks.adr
+    </file>
+    <file>
+      region\cis\ru\bookmarks.adr
+    </file>
+    <file>
+      region\cn\en\bookmarks.adr
+    </file>
+    <file>
+      region\ua\ru\bookmarks.adr
+    </file>
+    <file>
+      region\cis\en\search.ini
+    </file>
+    <file>
+      region\cis\ru\search.ini
+    </file>
+    <file>
+      region\cn\en\search.ini
+    </file>
+    <file>
+      region\ua\ru\search.ini
+    </file>
+    <file>
+      region\cis\en\standard_speeddial.ini
+    </file>
+    <file>
+      region\cis\ru\standard_speeddial.ini
+    </file>
+    <file>
+      region\cn\en\standard_speeddial.ini
+    </file>
+    <file>
+      region\ua\ru\standard_speeddial.ini
+    </file>
+    <file>
+      skin\standard_skin.zip
+    </file>
+    <file>
+      styles\about.css
+    </file>
+    <file>
+      styles\cache.css
+    </file>
+    <file>
+      styles\certinfo.css
+    </file>
+    <file>
+      styles\config.css
+    </file>
+    <file>
+      styles\contentblock.css
+    </file>
+    <file>
+      styles\cpu.css
+    </file>
+    <file>
+      styles\dir.css
+    </file>
+    <file>
+      styles\debug.css
+    </file>
+    <file>
+      styles\error.css
+    </file>
+    <file>
+      styles\gpu.css
+    </file>
+    <file>
+      styles\history.css
+    </file>
+    <file>
+      styles\image.css
+    </file>
+    <file>
+      styles\im.css
+    </file>
+    <file>
+      styles\info.css
+    </file>
+    <file>
+      styles\mathml.css
+    </file>
+    <file>
+      styles\media.css
+    </file>
+    <file>
+      styles\message.css
+    </file>
+    <file>
+      styles\mime.css
+    </file>
+    <file>
+      styles\opera.css
+    </file>
+    <file>
+      styles\plugins.css
+    </file>
+    <file>
+      styles\private.css
+    </file>
+    <file>
+      styles\search.css
+    </file>
+    <file>
+      styles\warning.css
+    </file>
+    <file>
+      styles\webstorage.css
+    </file>
+    <file>
+      styles\wml.css
+    </file>
+    <file>
+      styles\images\arrow.png
+    </file>
+    <file>
+      styles\images\bar.png
+    </file>
+    <file>
+      styles\images\bkgd.png
+    </file>
+    <file>
+      styles\images\bkgd-rev.png
+    </file>
+    <file>
+      styles\images\bullet.png
+    </file>
+    <file>
+      styles\images\center.png
+    </file>
+    <file>
+      styles\images\container.png
+    </file>
+    <file>
+      styles\images\customize.gif
+    </file>
+    <file>
+      styles\images\darkBox.png
+    </file>
+    <file>
+      styles\images\defaultFavicon.png
+    </file>
+    <file>
+      styles\images\error.png
+    </file>
+    <file>
+      styles\images\flag.png
+    </file>
+    <file>
+      styles\images\file.png
+    </file>
+    <file>
+      styles\images\folder.png
+    </file>
+    <file>
+      styles\images\hanger.png
+    </file>
+    <file>
+      styles\images\opera-icon-red.png
+    </file>
+    <file>
+      styles\images\opera.png
+    </file>
+    <file>
+      styles\images\Opera_256x256.png
+    </file>
+    <file>
+      styles\images\page-bot.png
+    </file>
+    <file>
+      styles\images\red_center.png
+    </file>
+    <file>
+      styles\images\red_left.png
+    </file>
+    <file>
+      styles\images\red_right.png
+    </file>
+    <file>
+      styles\images\root.png
+    </file>
+    <file>
+      styles\images\search.png
+    </file>
+    <file>
+      styles\images\section.png
+    </file>
+    <file>
+      styles\images\smartGroup.png
+    </file>
+    <file>
+      styles\images\tooltiptail.png
+    </file>
+    <file>
+      styles\images\top.png
+    </file>
+    <file>
+      styles\images\warning.png
+    </file>
+    <file>
+      styles\drives.css
+    </file>
+    <file>
+      styles\unstyledxml.css
+    </file>
+    <file>
+      styles\webfeeds.html
+    </file>
+    <file>
+      styles\m2_welcome_message.mbs
+    </file>
+    <file>
+      styles\m2_upgrade_1160.mbs
+    </file>
+    <file>
+      styles\mail.css
+    </file>
+    <file>
+      styles\feed.css
+    </file>
+    <file>
+      styles\user\accessibility.css
+    </file>
+    <file>
+      styles\user\altdebugger.css
+    </file>
+    <file>
+      styles\user\classid.css
+    </file>
+    <file>
+      styles\user\contrastbw.css
+    </file>
+    <file>
+      styles\user\contrastwb.css
+    </file>
+    <file>
+      styles\user\disablebreaks.css
+    </file>
+    <file>
+      styles\user\disablefloats.css
+    </file>
+    <file>
+      styles\user\disableforms.css
+    </file>
+    <file>
+      styles\user\disablepositioning.css
+    </file>
+    <file>
+      styles\user\disabletables.css
+    </file>
+    <file>
+      styles\user\outline.css
+    </file>
+    <file>
+      styles\user\structureblock.css
+    </file>
+    <file>
+      styles\user\structureinline.css
+    </file>
+    <file>
+      styles\user\structuretables.css
+    </file>
+    <file>
+      styles\user\tablelayout.css
+    </file>
+    <file>
+      styles\user\toc.css
+    </file>
+    <file>
+      ui\dialog.ini
+    </file>
+    <file>
+      ui\fastforward.ini
+    </file>
+    <file>
+      ui\standard_keyboard.ini
+    </file>
+    <file>
+      ui\standard_keyboard_compat.ini
+    </file>
+    <file>
+      ui\standard_menu.ini
+    </file>
+    <file>
+      ui\standard_mouse.ini
+    </file>
+    <file>
+      ui\standard_toolbar.ini
+    </file>
+    <file>
+      ui\dialogs.yml
+    </file>
+    <file>
+      ui\widgets.yml
+    </file>
+    <file>
+      ui\embedded_keyboard.ini
+    </file>
+    <file>
+      ui\embedded_menu.ini
+    </file>
+    <file>
+      ui\embedded_mouse.ini
+    </file>
+    <file>
+      gstreamer\README.txt
+    </file>
+    <file>
+      gstreamer\LGPL.txt
+    </file>
+    <file>
+      gstreamer\gstreamer.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstaudioconvert.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstaudioresample.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstcoreplugins.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstdecodebin2.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstdirectsound.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstffmpegcolorspace.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstoggdec.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstwavparse.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstwebmdec.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstwaveform.dll
+    </file>
+    <file>
+      gstreamer\plugins\gstautodetect.dll
+    </file>
+  </files>
+  <registry hive="HKLM">
+    <key path="Software\Classes\Opera{Product}.HTML" clean="1">
+      <value name="FriendlyTypeName" type="REG_SZ">
+        Opera Web Document
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.HTML\DefaultIcon" clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,1
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.HTML\shell\open\command" clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Extension" clean="1">
+      <value name="FriendlyTypeName" type="REG_SZ">
+        Opera Extension
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Extension\DefaultIcon" clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,4
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Extension\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Image" clean="1">
+      <value name="FriendlyTypeName" type="REG_SZ">
+        Opera Image
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Image\DefaultIcon" clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,1
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Image\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Protocol" clean="1">
+      <value name="EditFlags" type="REG_DWORD">
+        00000002
+      </value>
+      <value name="FriendlyTypeName" type="REG_SZ">
+        Opera Protocol
+      </value>
+      <value name="URL Protocol" type="REG_SZ"/>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Protocol\DefaultIcon" clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,1
+      </value>
+    </key>
+    <key path="Software\Classes\Opera{Product}.Protocol\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Classes\.oex" clean="1">
+      <value name="" type="REG_SZ">
+        Opera.Extension
+      </value>
+    </key>
+    <key path="Software\Classes\.oex\OpenWithProgIDs" clean="1">
+      <value name="Opera{Product}.Extension" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.htm\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.html\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.xht\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.xhtm\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.xhtml\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.mht\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.mhtml\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.xml\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.torrent\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.HTML" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.bmp\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.jpeg\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.jpg\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.png\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.gif\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.xbm\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.oga\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.ogv\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.ogm\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.ogg\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\.webm\OpenWithProgIDs" clean="0">
+      <value name="Opera{Product}.Image" type="REG_NONE"/>
+    </key>
+    <key path="Software\Classes\Applications\Opera.exe\shell\open\command"
+         clean="4">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Opera Software" clean="0">
+      <value name="Plugin path{SPProduct}" type="REG_SZ">
+        C:\Program Files (x86)\Opera\program\plugins
+      </value>
+    </key>
+    <key path="Software\Netscape\Netscape Navigator\Opera\main" clean="2">
+      <value name="Install Directory" type="REG_SZ">
+        C:\Program Files (x86)\Opera\
+      </value>
+      <value name="Plugins Directory" type="REG_SZ">
+        C:\Program Files (x86)\Opera\program\plugins
+      </value>
+    </key>
+    <key path="Software\Microsoft\MediaPlayer\ShimInclusionList\OPERA.EXE"
+         clean="1"/>
+    <key path="Software\Microsoft\Windows\CurrentVersion\App Paths\Opera.exe"
+         clean="0">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe"
+      </value>
+      <value name="Path" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\"
+      </value>
+    </key>
+    <key path="Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted"
+         clean="0">
+      <value name="{Resources}Opera.exe" type="REG_DWORD">
+        00000020
+      </value>
+    </key>
+    <key path="Software\RegisteredApplications" clean="0">
+      <value name="Opera{SPProduct} Internet Browser" type="REG_SZ">
+        Software\Clients\StartMenuInternet\Opera\Capabilities
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}" clean="1">
+      <value name="" type="REG_SZ">
+        Opera
+      </value>
+      <value name="LocalizedString" type="REG_SZ">
+        Opera
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\DefaultIcon" clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,3
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\InstallInfo" clean="1">
+      <value name="ShowIconsCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /ShowIconsCommand
+      </value>
+      <value name="HideIconsCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /HideIconsCommand
+      </value>
+      <value name="ReinstallCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /ReInstallNewsReader
+      </value>
+      <value name="IconsVisible" type="REG_DWORD">
+        00000001
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\news" clean="2">
+      <value name="" type="REG_SZ">
+        URL:MailTo Protocol
+      </value>
+      <value name="EditFlags" type="REG_DWORD">
+        00000002
+      </value>
+      <value name="URL Protocol" type="REG_SZ"/>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\news\DefaultIcon"
+         clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,1
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\news\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\snews" clean="2">
+      <value name="" type="REG_SZ">
+        URL:MailTo Protocol
+      </value>
+      <value name="EditFlags" type="REG_DWORD">
+        00000002
+      </value>
+      <value name="URL Protocol" type="REG_SZ"/>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\snews\DefaultIcon"
+         clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,1
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\snews\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\nntp" clean="2">
+      <value name="" type="REG_SZ">
+        URL:MailTo Protocol
+      </value>
+      <value name="EditFlags" type="REG_DWORD">
+        00000002
+      </value>
+      <value name="URL Protocol" type="REG_SZ"/>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\nntp\DefaultIcon"
+         clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,1
+      </value>
+    </key>
+    <key path="Software\Clients\News\Opera{Product}\Protocols\nntp\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}" clean="1">
+      <value name="" type="REG_SZ">
+        Opera
+      </value>
+      <value name="DLLPath" type="REG_SZ">
+        C:\Program Files (x86)\Opera\mapi\OperaMAPI.dll
+      </value>
+      <value name="LocalizedString" type="REG_SZ">
+        Opera
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\DefaultIcon" clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,3
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\InstallInfo" clean="1">
+      <value name="ShowIconsCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /ShowIconsCommand
+      </value>
+      <value name="HideIconsCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /HideIconsCommand
+      </value>
+      <value name="ReinstallCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /ReInstallMailer
+      </value>
+      <value name="IconsVisible" type="REG_DWORD">
+        00000001
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\shell\open\command" clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /Mail
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\shell\properties\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" opera:config#Mail
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\Protocols\mailto" clean="2">
+      <value name="" type="REG_SZ">
+        URL:MailTo Protocol
+      </value>
+      <value name="EditFlags" type="REG_DWORD">
+        00000002
+      </value>
+      <value name="URL Protocol" type="REG_SZ"/>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\Protocols\mailto\DefaultIcon"
+         clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,3
+      </value>
+    </key>
+    <key path="Software\Clients\Mail\Opera{Product}\Protocols\mailto\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" "%1"
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}" clean="1">
+      <value name="" type="REG_SZ">
+        Opera
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\DefaultIcon"
+         clean="1">
+      <value name="" type="REG_SZ">
+        C:\Program Files (x86)\Opera\Opera.exe,0
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\InstallInfo"
+         clean="1">
+      <value name="ShowIconsCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /ShowIconsCommand
+      </value>
+      <value name="HideIconsCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /HideIconsCommand
+      </value>
+      <value name="ReinstallCommand" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /ReInstallBrowser
+      </value>
+      <value name="IconsVisible" type="REG_DWORD">
+        00000001
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\shell\open\command"
+         clean="2">
+      <value name="" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe"
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\Capabilities"
+         clean="1">
+      <value name="ApplicationDescription" type="REG_SZ">
+        The Best Internet Experience on any device
+      </value>
+      <value name="ApplicationIcon" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.dll",0
+      </value>
+      <value name="ApplicationName" type="REG_SZ">
+        Opera Web browser
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\Capabilities\FileAssociations"
+         clean="1">
+      <value name=".oex" type="REG_SZ">
+        Opera.Extension
+      </value>
+      <value name=".htm" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".html" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".xht" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".xhtm" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".xhtml" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".mht" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".mhtml" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".xml" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".torrent" type="REG_SZ">
+        Opera.HTML
+      </value>
+      <value name=".bmp" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".jpeg" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".jpg" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".png" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".svg" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".gif" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".xbm" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".oga" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".ogv" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".ogm" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".ogg" type="REG_SZ">
+        Opera.Image
+      </value>
+      <value name=".webm" type="REG_SZ">
+        Opera.Image
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\Capabilities\Startmenu"
+         clean="1">
+      <value name="Mail" type="REG_SZ">
+        Opera
+      </value>
+      <value name="StartMenuInternet" type="REG_SZ">
+        Opera
+      </value>
+    </key>
+    <key path="Software\Clients\StartMenuInternet\Opera{Product}\Capabilities\UrlAssociations"
+         clean="1">
+      <value name="http" type="REG_SZ">
+        Opera.Protocol
+      </value>
+      <value name="https" type="REG_SZ">
+        Opera.Protocol
+      </value>
+      <value name="ftp" type="REG_SZ">
+        Opera.Protocol
+      </value>
+      <value name="mailto" type="REG_SZ">
+        Opera.Protocol
+      </value>
+      <value name="nntp" type="REG_SZ">
+        Opera.Protocol
+      </value>
+      <value name="news" type="REG_SZ">
+        Opera.Protocol
+      </value>
+      <value name="snews" type="REG_SZ">
+        Opera.Protocol
+      </value>
+    </key>
+    <key path="Software\Microsoft\Windows\CurrentVersion\Uninstall\Opera 12.15.1748"
+         clean="1">
+      <value name="DisplayName" type="REG_SZ">
+        Opera 12.15
+      </value>
+      <value name="DisplayIcon" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.dll",0
+      </value>
+      <value name="DisplayVersion" type="REG_SZ">
+        12.15.1748
+      </value>
+      <value name="HelpLink" type="REG_SZ">
+        http://www.opera.com/support
+      </value>
+      <value name="InstallLocation" type="REG_SZ">
+        C:\Program Files (x86)\Opera\
+      </value>
+      <value name="NoModify" type="REG_DWORD">
+        00000001
+      </value>
+      <value name="NoRepair" type="REG_DWORD">
+        00000001
+      </value>
+      <value name="Publisher" type="REG_SZ">
+        Opera Software ASA
+      </value>
+      <value name="UninstallString" type="REG_SZ">
+        "C:\Program Files (x86)\Opera\Opera.exe" /uninstall
+      </value>
+      <value name="URLInfoAbout" type="REG_SZ">
+        http://www.opera.com
+      </value>
+      <value name="URLUpdateInfo" type="REG_SZ">
+        http://www.opera.com/download
+      </value>
+      <value name="Version" type="REG_DWORD">
+        0c0f0000
+      </value>
+      <value name="VersionMajor" type="REG_DWORD">
+        0000000c
+      </value>
+      <value name="VersionMinor" type="REG_DWORD">
+        0000000f
+      </value>
+    </key>
+  </registry>
+  <shortcut type="SC_DEST_COMMON_MENU">
+    C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Opera.lnk
+  </shortcut>
+</install_log>

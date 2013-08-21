@@ -1,0 +1,7 @@
+<FilesMatch "\.([Pp][Hh][Pp]|[Cc][Gg][Ii]|[Pp][Ll]|[Ph][Hh][Tt][Mm][Ll])\.?">
+   Order allow,deny
+   Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule ^.+/Uploads/(.+) /Uploads/\1

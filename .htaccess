@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+RewriteRule ^(.*)$ Public/Index.php
+
+php_flag magic_quotes_gpc off
+php_flag register_globals off
